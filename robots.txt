@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://owenadley.github.io/archive-9161aw/sitemap.xml
